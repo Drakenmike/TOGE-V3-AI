@@ -2,8 +2,8 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "24105114159"],
-global.ownername = process.env.OWNER_NAME || "𓆩𝐓𝐎𝐆𝐄𓆪 ✇ ◤✞𝐈𝐍𝐔𝐌𝐀𝐊𝐈",
+global.ownernumber = [ process.env.OWNER_NUMBER || "237620235226"],
+global.ownername = process.env.OWNER_NAME || "⏤͟͟͞͞𝄞∘̥⃟𝐄𝐆 𝐃𝐘𝐁𝐘 𝐓𝐄𝐂𝐇 🕸️",
 global.ytname = "YT: kenzo3146"
 global.socialm = "GitHub: toge012345"
 global.location = "Africa"
@@ -19,7 +19,7 @@ global.themeemoji = '𓅃'
 global.wm = "𝐓𝐎𝐆𝐄_𝐁𝐎𝐓 𝐈𝐧𝐜 ✨"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z'
+global.link = 'https://whatsapp.com/channel/0029VaiOvsV1iUxQRXWnv40R'
 
 //custom prefix
 global.prefa = process.env.PREFIX || ".",
